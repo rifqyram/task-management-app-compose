@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">task management</string>
+    <string name="title_activity_task">TaskActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
